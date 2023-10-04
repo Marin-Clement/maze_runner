@@ -1,4 +1,4 @@
-package maze.Objects;
+package maze.objects;
 
 import maze.generators.GraphBasedMazeGenerator;
 import maze.generators.OptimizedMazeGenerator;

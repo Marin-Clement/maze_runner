@@ -1,6 +1,6 @@
 package maze.generators;
 
-import maze.Objects.Cell;
+import maze.objects.Cell;
 import maze.MazeGenerator;
 
 public class OptimizedMazeGenerator implements MazeGenerator {

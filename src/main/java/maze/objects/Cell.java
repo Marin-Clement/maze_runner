@@ -1,4 +1,4 @@
-package maze.Objects;
+package maze.objects;
 
 public class Cell {
     public int id;
